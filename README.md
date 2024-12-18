@@ -61,3 +61,5 @@ O documento `script.js` contém funções JavaScript que realizam operações ma
 
 Essa estrutura permite que o usuário insira um número e selecione uma operação matemática para ver os resultados exibidos na tela.
 
+[^1]: Foi o Copilot que criou o texto do readme.md
+
