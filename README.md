@@ -1,4 +1,4 @@
-### Estrutura do Documento HTML
+### Estrutura do Documento HTML 
 
 O documento HTML contém a estrutura básica da página, incluindo os botões para cada operação matemática.
 
@@ -61,5 +61,5 @@ O documento `script.js` contém funções JavaScript que realizam operações ma
 
 Essa estrutura permite que o usuário insira um número e selecione uma operação matemática para ver os resultados exibidos na tela.
 
-[^1]: Foi o Copilot que criou o texto do readme.md
+Texto feito pelo Copilot a apartir dos comentarios no codigo.
 
