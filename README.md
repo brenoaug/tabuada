@@ -5,7 +5,6 @@ O documento HTML contém a estrutura básica da página, incluindo os botões pa
 - O elemento `<h1>` exibe o título da página.
 - O elemento `<input>` permite a entrada de números pelo usuário.
 - Os elemento `<button>` representam os botões para cada operação matemática, com ids correspondentes às operações.
-- O elemento `<div>` com id `resultado` exibe o resultado da operação.
 - O elemento `<script>` inclui o arquivo JavaScript que contém a lógica da calculadora.
 
 ### Estrutura do Documento CSS
