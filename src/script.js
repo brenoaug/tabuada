@@ -38,8 +38,8 @@ function dividir(numero) {
 
 function calcular(operacao) {
   const numeroEscolhido = Number(document.getElementById("numero").value);
-  if (numeroEscolhido > 10) {
-    alert('Por favor, insira um número menor ou igual a 10.');
+  if (numeroEscolhido > 10 || numeroEscolhido === 0) {
+    alert('Por favor, insira um número dentre 1 a 10.');
     return;
   }
 
