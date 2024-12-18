@@ -61,5 +61,5 @@ O documento `script.js` contém funções JavaScript que realizam operações ma
 
 Essa estrutura permite que o usuário insira um número e selecione uma operação matemática para ver os resultados exibidos na tela.
 
-Texto feito pelo Copilot a apartir dos comentarios no codigo.
+Texto feito pelo Copilot a apartir dos comentários no codigo.
 
