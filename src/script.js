@@ -1,3 +1,4 @@
+//essas functions criei para realizar as operações e e retornarem os valores para serem exibidos na tela, usei o for para somar, subtrair e multipl
 function somar(numero) {
   let resultadoAdicao = [];
   for (var i = 0; i <= 10; i++) {
@@ -9,9 +10,11 @@ function somar(numero) {
 
 function subtrair(numero) {
   let resultadoSubtracao = [];
-  for (var i = numero; i <= numero + 10; i++) {
+  let i = numero;
+  while (i <= numero + 10){
     let resultado = i - numero;
     resultadoSubtracao.push(`${i} - ${numero} = ${resultado}`);
+    i++;
   }
   return resultadoSubtracao;
 }
